@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently working on a Vim plugin for TeX users, which creates a menu to access any sources located in a .bib file.  Eventually I hope that this project can expand as I learn more about vim9script. 
+
 <!--
 **bradencarlson/bradencarlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
