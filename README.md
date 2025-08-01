@@ -2,8 +2,6 @@
 
 I am currently working on a Vim plugin for TeX users, which creates a menu to access any sources located in a .bib file.  Eventually I hope that this project can expand as I learn more about vim9script. 
 
-<img src="https://raw.githubusercontent.com/bradencarlson/bradencarlson/output/snake.svg" alt="Snake animation" />
-
 <!--
 **bradencarlson/bradencarlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
