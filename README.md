@@ -1,18 +1,20 @@
-## Hi there 👋
+<img alt="Hello!" src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6f11,100:fca311&text=Hey%20there!&height=150">
 
-I am currently working on a Vim plugin for TeX users, which creates a menu to access any sources located in a .bib file.  Eventually I hope that this project can expand as I learn more about vim9script. 
-
-<!--
-**bradencarlson/bradencarlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+```yaml
+name: 'Braden Carlson'
+located_in: 'Idaho'
+interests:
+  [
+    'Mathematics',
+    'Linux',
+    'Woodworking'
+  ]
+technologies_used:
+  {
+    programming_languages: ['C', 'Python', 'Java', 'Octave', 'vim9script'],
+    tools: ['vim', 'git', 'sagemath']
+  }
+learning: ['Github Actions']
+```
+![Snake animation](https://github.com/bradencarlson/bradencarlson/blob/output/snake.svg)
