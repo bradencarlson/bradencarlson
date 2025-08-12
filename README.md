@@ -17,4 +17,4 @@ technologies_used:
   }
 learning: ['Github Actions']
 ```
-![Snake animation](https://github.com/bradencarlson/bradencarlson/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bradencarlson/bradencarlson/blob/output/snake.svg)
