@@ -13,8 +13,14 @@ interests:
 technologies_used:
   {
     programming_languages: ['C', 'Python', 'Java', 'Octave', 'vim9script'],
-    tools: ['vim', 'git', 'sagemath']
+    tools: ['vim', 'git', 'sagemath', 'LaTeX', 'sed', 'awk']
   }
 learning: ['Github Actions']
+hobbies:
+  [
+    'golf',
+    'disk golf',
+    'reading'
+  ]
 ```
 ![Snake animation](https://github.com/bradencarlson/bradencarlson/blob/output/snake.svg)
