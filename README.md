@@ -12,8 +12,25 @@ interests:
   ]
 technologies_used:
   {
-    programming_languages: ['C', 'Python', 'Java', 'Octave', 'vim9script'],
-    tools: ['vim', 'git', 'sagemath', 'LaTeX', 'sed', 'awk']
+    programming_languages:
+      [
+        'C',
+        'Python',
+        'Java',
+        'Octave',
+        'vim9script',
+        'JavaScript'
+      ],
+    tools:
+      [
+        'vim',
+        'git',
+        'sagemath',
+        'LaTeX',
+        'sed',
+        'awk',
+        'css'
+      ]
   }
 learning: ['Github Actions']
 hobbies:
