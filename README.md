@@ -23,4 +23,9 @@ hobbies:
     'reading'
   ]
 ```
-![Snake animation](https://github.com/bradencarlson/bradencarlson/blob/output/snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bradencarlson/bradencarlson/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bradencarlson/bradencarlson/blob/output/snake.svg" />
+  <img alt="github-snake" src="https://github.com/bradencarlson/bradencarlson/blob/output/snake-dark.svg" />
+</picture>
