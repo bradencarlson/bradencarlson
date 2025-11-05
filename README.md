@@ -1,4 +1,4 @@
-<img alt="Hello!" src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6f11,100:fca311&text=Hey%20there!&height=150">
+<img alt="Hello!" src="https://capsule-render.vercel.app/api?type=waving&color=0:fc6f11,100:fca311&text=Hey%20there!&height=200">
 
 ## About me
 ```yaml
@@ -15,7 +15,7 @@ technologies_used:
     programming_languages: ['C', 'Python', 'Java', 'Octave', 'vim9script'],
     tools: ['vim', 'git', 'sagemath', 'LaTeX', 'sed', 'awk']
   }
-learning: ['Github Actions']
+learning: ['Rust']
 hobbies:
   [
     'golf',
